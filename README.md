@@ -6,11 +6,11 @@ O projeto é uma coleção de várias ferramentas em Python úteis, construídas
 
 * Conversor PDF para MP3: uma ferramenta que permite converter arquivos PDF em arquivos de áudio MP3, tornando mais fácil para os usuários ouvir documentos   PDF em movimento.
 
-* Download de audio do youtube: uma ferramenta que permite fazer o download de audio dos vídeos do youtube o link de vídeo fornecido.
+* Download de áudio do youtube: uma ferramenta que permite fazer o download de áudio dos vídeos do youtube e de links de vídeos registrados.
 
 * Extrair tabela de Pdf: Ferramenta permite extrair tabelas e salvar nos formatos Csv,Json e Excel
 
-* Em breve mais ferramentas: adicionando novas ferramentas ao projeto.
+* Em breve mais ferramentas: adicionando novas ferramentas ao projeto. (Projeto antigo, sem pretensão de atualizações)
 
 ## Requisitos
 
